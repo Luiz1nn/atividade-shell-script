@@ -9,4 +9,4 @@
 4. Liste todos os usuários do computador e exiba a data do último login deles.
 5. Adicione uma nova vlan numa das interfaces de rede e a configure da seguinte forma: vlan tag 600, IP: 10.11.12.10/24.
 
-#### Link do Repositório: [clique aqui]("https://github.com/Luiz1nn/atividade-shell-script.git")
+#### Link do Repositório: https://github.com/Luiz1nn/atividade-shell-script.git
